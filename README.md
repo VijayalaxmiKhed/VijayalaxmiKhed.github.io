@@ -6,4 +6,4 @@ My main areas of research interest are Gender, agriculture and development.
 
 You will find on this website links to my CV, research papers and teaching experience.
 
-You can contact me by e-mail: vijayalaxmikhed39@gmail.com, or phone: +91 7338005411
+You can contact me by e-mail: vijayalaxmikhed39@gmail.com, or phone: +91 7338005411 vv
