@@ -1,8 +1,8 @@
 **Home**
 
-I am a Spatial Economist at the International Maize and Wheat Improvement Center (CIMMYT), currently based in Delhi, India, and an adjunct research fellow at the Center for Agricultural Research and Development (CARD), Lilongwe University of Agriculture and Natural Resources (LUANAR), Malawi. I am also a research associate at the International Science & Technology Practice and Policy (InSTePP)'s agricultural transformation project in Malawi. I obtained a PhD in Applied Economics at the University of Minnesota in July 2019.
+I am a Consultant: Gender and Socioeconomic Research Specialist at the International Maize and Wheat Improvement Center (CIMMYT), currently based in Hyderabad, India. I hold a PhD in Agricultural Economics from the University of Agricultural Sciences, GKVK Bengaluru, India, obtained in 2019. I was an ANH IMMANA Postdoctoral Fellow from India (2023-24). In 2018, I participated in a DAAD-sponsored academic exchange at the University of Göttingen, Germany, and I have also been a Visiting Fellow at the Australian National University, Canberra.
 
-My main areas of research interest are Gender, agriculture and development.
+My main areas of research interest are Gender and social inclusion; Climate change and vulnerability; Adoption and Impact assessment of sustainable agricultural technologies; Food and Nutrition security.
 
 You will find on this website links to my CV, research papers and teaching experience.
 
