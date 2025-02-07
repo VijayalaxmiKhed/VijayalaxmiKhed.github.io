@@ -1,0 +1,17 @@
+title: "My GitHub Page"
+description: "This is my personal GitHub Pages site."
+author: "Vijayalaxmi Khed"
+theme: jekyll-theme-minimal  # Change theme if needed
+show_downloads: true
+github:
+  is_project_page: false
+
+domain: "www.example.com"  # If using a custom domain
+url: "https://www.example.com"
+
+exclude:
+  - README.md
+  - node_modules
+  - package.json
+  - Gemfile
+  - Gemfile.lock
